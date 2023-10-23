@@ -8,6 +8,9 @@ height: 650px;}
 body{
 background-color: rgb(124, 172, 70);
 }
+.principal {
+    background: lightblue;
+}
 h1{
 text-align: center; color: red
 }
@@ -16,4 +19,7 @@ text-align: center;
 }
 strong{
 color: indianred;
+}
+.beneficios {
+    background: lightpink;
 }
